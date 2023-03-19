@@ -18,28 +18,25 @@
 
 ### 前端技术栈
 
-::: tip
-JavaScript, Vue全家桶, uniapp, Vue3, React, VuePress, Nuxt, WebSocket, ECharts
+- JavaScript, Vue全家桶, uniapp, Vue3, React, VuePress, Nuxt, WebSocket, ECharts
 
-UI: Element, Ant Design
+- UI: Element, Ant Design
 
-其他: Android, uniapp原生插件, 微信小程序, 公众号
-:::
+- 其他: Android, uniapp原生插件, 微信小程序, 公众号
+
 
 ### 后端技术栈
 
-::: tip
-Java, Spring全家桶, WebSocket, MySQL, MyBatis, MyBatis-Plus, Redis, Excel, Maven
 
-其他: Python nodejs
-运维: Docker, Nginx, OSS
-:::
+- Java, Spring全家桶, WebSocket, MySQL, MyBatis, MyBatis-Plus, Redis, Excel, Maven
+
+- 其他: Python nodejs
+
+- 运维: Docker, Nginx, OSS
 
 ### 日常开发工具
 
-::: tip
-IDEA, WebStorm, HBuilder, Android Studio,XCode,小程序开发工具,Fiddler
-:::
+- IDEA, WebStorm, HBuilder, Android Studio,XCode,小程序开发工具,Fiddler
 
 ## 联系我
 
